@@ -8,6 +8,6 @@ I am currently working on
 
 ---
 
-im a pretty bad madeyes player living in denial i can be decent one day 
-
-i play in asia and while i suck most of these tips are from watching okay players
+im a pretty bad madeyes player
+thats it
+hope you can learn something

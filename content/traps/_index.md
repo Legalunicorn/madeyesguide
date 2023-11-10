@@ -15,12 +15,8 @@ Such forms of trapping are covered within a section of <a href="/madeyesguide/ti
 
 ---
 <p class="fs-5">
-General Notes:
-<ul class="fs-5">
-<li class="my-2"> For traps that uses confined space, survivors with long stuns (ie. forward) can potentially cancel your confined space and vault back inside safety, though it rarely could happen. </li>
-
-<li>For each map I have assigned a console a number (in a order that goes from left to right, top to bottom), you will see the reference when you click on one of the maps below.</li>
-</ul>
+Note:<br>
+For each map I have assigned a console a number (in a order that goes from left to right, top to bottom), you will see the reference when you click on one of the maps below.
 </p>
 
 ---
