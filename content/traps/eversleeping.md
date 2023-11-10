@@ -1,7 +1,6 @@
 +++
 title = 'Eversleeping Traps'
 date = 2023-11-04T22:43:48+08:00
-draft = true
 featuredImage ="/images/eversleeping/eversleeping.png"
 +++
 

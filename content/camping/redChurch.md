@@ -1,7 +1,6 @@
 +++
 title = 'Camping in Red Church'
 date = 2023-10-29T16:04:42+08:00
-draft = true
 featuredImage = "/images/redchurch/redchurch.png"
 
 +++

@@ -1,7 +1,6 @@
 +++
 title = ''
 date = 2023-11-03T19:02:41+08:00
-draft = true
 +++
 
 <p class="display-3 ps-4 border-start border-5 border-info shadow py-3 rounded-end">
