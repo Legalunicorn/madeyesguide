@@ -1,7 +1,7 @@
 +++
 title = 'Camping in Red Church'
 date = 2023-10-29T16:04:42+08:00
-featuredImage = "/images/redchurch/redchurch.png"
+featuredImage = "images/redchurch/redchurch.png"
 
 +++
 

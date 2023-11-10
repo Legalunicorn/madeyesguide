@@ -1,7 +1,7 @@
 +++
 title = 'Red Church Traps'
 date = 2023-10-29T15:54:52+08:00
-featuredImage = "/images/redchurch/redchurch.png"
+featuredImage = "images/redchurch/redchurch.png"
 +++
 
 <p class="lead">
@@ -17,8 +17,7 @@ id="rc1"
 
 keypoints=`
 - Requires confined space, used when chasing
-- Use console 2, pan downwards
-- 40s walls `
+- these last 40s`
 
 addnotes=`
 Due to the long panning distance of the console camera, you have to be quick! Open up your consoles **before they vault the window** or you won't make it in time.
@@ -43,7 +42,6 @@ You have to be close to the vault for this as experienced survivors can immediat
 
 
 - Requires confined space, used when chasing
-- console 4, drag 5
 - 40s or 20s walls, depending if there is a undecoded cipher 
 - Usefulness: 3/5`
 
@@ -62,7 +60,6 @@ keypoints=`
 Open up your console just before they vault, or as they are vaulting.
 
 - Requires confined space, used when chasing
-- console 4, drag down-right 
 - Usefulness: 4/5`
 addnotes=`
 You have to be extra quick for this one. if it fails consider closing all church exits (last trap discussed)`%}}
@@ -76,8 +73,7 @@ keypoints=`
 Requires you to be fast. As a tip, remember you have to drag down the camera for this one, saves you time figuring out the orientation.
 
 - Partially trap survivors
-- No confined space, used
-- console 5, drag down`
+- No confined space, used`
 addnotes=`
 watch out for the pallet, the worse think you can do is get stunned and waste a big opportunity. You may wall the pallet if necessary
 
@@ -93,8 +89,7 @@ yturl="https://www.youtube.com/embed/c7pctQWdR7U?si=lUomtGsjLFhn4B5Q"
 id="rc5"
 keypoints=`
 - Fully trap survivors
-- Confined space required
-- console 5, drag down`
+- Confined space required`
 addnotes=`
 It doesn't have to be coming from here, the survivor could be running from graveyard too.
 
@@ -108,8 +103,7 @@ title="6. Left of red carpet"
 yturl="https://www.youtube.com/embed/QXG009NwyZM?si=qds6B92IGeSV2FQ4"
 id="rc6"
 keypoints=`
-- Fully trap survivors (40s walls)
-- Console 7, drag right`
+- 40s walls`
 addnotes=`
 This kind of narrow stretch is actually very similar to eversleeping town structure (between the buildings).
 
@@ -120,10 +114,3 @@ While this trap is easy since there is no rush, the opportunity rarely comes alo
 Usefulness: 3/5`
 %}}
 
-{{%trap
-title=""
-yturl=""
-id=""
-keypoints=``
-addnotes=``
-%}}
