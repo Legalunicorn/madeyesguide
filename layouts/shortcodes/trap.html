@@ -1,0 +1,44 @@
+
+
+<p class="display-5 mb-3">
+{{.Get "title"}}
+</p>
+<!--URL -->
+<div class="p-2"> <!--entire post without title -->
+  <div class="my-3">
+    <iframe 
+    class="rounded shadow"
+    src="{{.Get `yturl`}}"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe></iframe>
+  </div>
+
+
+  <div class="">
+    <div class="rounded-start border-start border-4 border-info p-3 my-5">
+      <p class="display-6 ms-2 mb-4"><i class="bi-stars"></i> Key points </p>
+      <div class="ms-4 ">
+        <p>
+        {{.Get "keypoints"}}<!--key points--></p>
+      </div>
+    </div>
+
+
+    <div class="accordion" >
+      <div class="accordion-item shadow border border-0">
+        <h2 class="accordion-header ">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{.Get `id`}}" aria-expanded="false" aria-controls="{{.Get `id`}}">
+              <i class="bi-card-list mx-3 "></i>Additional Notes
+          </button>
+        </h2>
+        <div id="{{.Get `id`}}" class=" accordion-collapse collapse" >
+          <div class="accordion-body">
+            {{.Get "addnotes"}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<i class="d-flex justify-content-center bi-x-diamond-fill my-4"></i>
+

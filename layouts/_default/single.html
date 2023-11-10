@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="container">
+  <h1 class="display-1 mb-3">{{ .Title }}</h1>
+  <p class="my-3">{{ .Content }}</p>
+  
+
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+
+</div>
+
+{{ end }}

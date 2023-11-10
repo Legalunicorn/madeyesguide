@@ -1,0 +1,16 @@
+<!-- inserted into basehtml's head-->
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+<!-- Insert partials/head files into html metadata-->
+{{ partialCached "head/css.html" . }} 
+
+<!-- JS script can be placed in either head/body so this is fine-->
+{{ partialCached "head/js.html" . }}
+
+<!--
+    The particlacached template function offer performance ganes
+    for compelx templates that dont need to be re-rendered
+    in every invocation
+-->

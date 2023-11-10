@@ -1,0 +1,60 @@
+{{%trap
+title=""
+yturl=""
+id=""
+keypoints=``
+addnotes=``
+%}}
+
+Madeyes blog 
+
+NAV
+- Traps (Star)
+- General (Boring)
+	- Intro (Basics)
+	- Overall Strategy (long) 
+	- Useful Facts 
+	- Others (counters/bans,)
+
+- Hitting 
+- Camping
+	- map map map
+
+- Pro Game play
+- About
+
+
+
+
+HOME 
+Overview 
+- General
+	- Introduction to Madeyes 
+	- Build & General Strategies 
+		1. Chase build *
+		2. Console God build *
+	- Good to know facts 
+	- 
+
+
+- Hitting 
+	Overview
+	- hitting decoding
+	- hitting jukes 
+
+- Traps 
+	Overview
+	- red church
+	- hospital
+	- eversleeping 
+- Camp 
+	General Strategy
+	- red church 
+	- hospital
+	- eversleeping 
+
+
+FOOTER
+- Send Feedback
+- Discord Server 
+

@@ -1,0 +1,12 @@
+<!-- CLEAR -->
+<!-- link css in the meta data-->
+
+{{- with resources.Get "css/main.css" }} <!--go to css file-->
+  {{- if eq hugo.Environment "development" }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{- else }} <!-- not development, get integrity-->
+    {{- with . | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{- end }}
+  {{- end }}
+{{- end }}

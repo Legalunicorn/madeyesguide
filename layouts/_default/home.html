@@ -1,0 +1,106 @@
+{{ define "main" }}
+
+
+<!--Content from content/_index.html-->
+<div class="container-md">
+  {{ .Content }}
+  <br>
+  <!-- According for section descrption-->
+  <div class="accordion" id="accordionExample">
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collaspeZero" aria-expanded="false" aria-controls="collaspeZero">
+          Basics
+        </button>
+      </h2>
+      <div id="collaspeZero" class="accordion-collapse collapse" >
+        <div class="accordion-body">
+          <p>
+          <strong>This section is for newer players</strong><br>
+          <hr>
+          It contains the bulk of basic information to playing burke. I reccomand players who are already comfortable with
+          their playing style to skip over to 
+          <a href="/strategy">Strategy</a>,
+          <a href="/traps/">Traps</a> and 
+          <a href="/tipsandtricks/">Tips and Tricks</a>
+
+          <br>
+          <br>
+          This section includes:
+          <li>Explaining abilities</li>
+          <li>Basic information and numbers</li>
+          </p>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          <strong>General</strong>
+        </button>
+      </h2>
+      <div id="collapseOne" class="accordion-collapse collapse" >
+        <div class="accordion-body">
+          <p>
+          <strong>General Strategies for Playing burke</strong><br>
+          <p>I discuss things like persona, and playstyles. There is so much variation so it can be quite heavy</p>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          <strong>Traps</strong>
+        </button>
+      </h2>
+      <div id="collapseTwo" class="accordion-collapse collapse" >
+        <div class="accordion-body">
+          This section convers traping survivors with your walls.
+           It is split by map in a case by case basis. 
+        </div>
+      </div>
+    </div>
+
+
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          <strong>Camping</strong>
+        </button>
+      </h2>
+      <div id="collapseThree" class="accordion-collapse collapse" >
+        <div class="accordion-body">
+          Camping is a big part of Mad Eyes and since it can be in a case-by-case basis,
+          I've made it into a section of its own
+
+          <br><br>
+          Content
+          <li>Basic camping ideas</li>
+          <li>Good chair examples</li>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          <strong>Tips and Tricks</strong>
+        </button>
+      </h2>
+      <div id="collapseFour" class="accordion-collapse collapse" >
+        <div class="accordion-body">
+          General tips that are not discussed in other sections. 
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+  <img src="" alt="">
+</div>
+
+{{ end }}

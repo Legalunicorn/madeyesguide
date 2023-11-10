@@ -1,0 +1,14 @@
+<div class="accordion my-3" id="accordionExample">
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{.Get `id`}}" aria-expanded="false" aria-controls="{{.Get `id`}}">
+          {{.Get "header"}}
+        </button>
+      </h2>
+      <div id="{{.Get `id`}}" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+        <div class="accordion-body">
+            {{.Get "body"}}
+        </div>
+      </div>
+    </div>
+  </div>

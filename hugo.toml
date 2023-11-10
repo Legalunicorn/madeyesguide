@@ -1,0 +1,5 @@
+baseURL = 'https://Legalunicorn.github.io/madeyesguide/'
+languageCode = 'en-us'
+[markup.goldmark.renderer]
+    unsafe = true
+    hardWraps = false
