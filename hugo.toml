@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL = 'https:/legalunicorn.github.io/madeyesguide/'
+=======
+baseURL = 'https://legalunicorn.github.io/madeyesguide/'
+>>>>>>> 61fdfb436118dac02ddceb30ada9ddc096fa91f1
 languageCode = 'en-us'
 [markup.goldmark.renderer]
     unsafe = true
