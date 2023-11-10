@@ -6,7 +6,7 @@ date = 2023-10-29T16:04:12+08:00
 
 This page is under construction.
 I am currently working on 
-<a href="/traps/redchurch">red church traps</a>
+<a href="/traps/redchurch/">red church traps</a>
 
 <p class="display-3 mb-5">
 Camping as Mad eyes
