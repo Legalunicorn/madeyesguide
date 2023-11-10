@@ -6,7 +6,7 @@ date = 2023-10-29T16:04:12+08:00
 
 This page is under construction.
 I am currently working on 
-<a href="traps/redchurch/">red church traps</a>
+<a href="/madeyesguide/traps/redchurch/">red church traps</a>
 
 <p class="display-3 mb-5">
 Camping as Mad eyes
@@ -34,7 +34,7 @@ Your best chairs are placed in some sort of corner or curve in such a way that t
 <p class="fs-6">
 Such an example is this chair in red church below
 </p>
-<img src="/images/redchurch/chair1.jpg" alt="red church chair">
+<img src="static/images/redchurch/chair1.jpg" alt="red church chair">
 
 
 <p class="display-5 mt-5">

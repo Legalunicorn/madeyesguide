@@ -1,7 +1,7 @@
 +++
 title = 'Red Church Traps'
 date = 2023-10-29T15:54:52+08:00
-featuredImage = "/images/redchurch/redchurch.png"
+featuredImage = "images/redchurch/redchurch.png"
 +++
 
 <p class="lead">
