@@ -12,6 +12,10 @@ iframe{
   aspect-ratio: 20.5/9;
 }
 
+a{
+  text-decoration: none;
+}
+
 /*
 header {
   margin-bottom: 1rem;

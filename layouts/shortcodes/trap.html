@@ -10,12 +10,21 @@
     class="rounded shadow"
     src="{{.Get `yturl`}}"
     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen></iframe></iframe>
+    allowfullscreen></iframe>
   </div>
 
+<!-- All content below the video-->
+  <p class="d-inline-flex gap-1 ms-2">
+    <button class="btn btn-outline-secondary" type="button" data-bs-toggle="collapse" 
+    data-bs-target="#collapse{{.Get `id`}}" aria-expanded="false"
+    aria-controls="collapse{{.Get `id`}}">
+      Details
+    </button>
+  </p>
 
-  <div class="">
-    <div class="rounded-start border-start border-4 border-info p-3 my-5">
+
+  <div class="collapse" id="collapse{{.Get `id`}}">
+    <div class="rounded-start border-start border-4 border-info p-3 mb-5 mt-3">
       <p class="display-6 ms-2 mb-4"><i class="bi-stars"></i> Key points </p>
       <div class="ms-4 ">
         <p>
@@ -25,7 +34,7 @@
 
 
     <div class="accordion" >
-      <div class="accordion-item shadow border border-0">
+      <div class="accordion-item shadow border border-0 ">
         <h2 class="accordion-header ">
           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{.Get `id`}}" aria-expanded="false" aria-controls="{{.Get `id`}}">
               <i class="bi-card-list mx-3 "></i>Additional Notes
@@ -39,6 +48,7 @@
       </div>
     </div>
   </div>
-</div>
+
+</div> <!--closing div for everything after the title-->
 <i class="d-flex justify-content-center bi-x-diamond-fill my-4"></i>
 

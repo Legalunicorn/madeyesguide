@@ -8,18 +8,13 @@ Traps - Overview
 <br>
 
 <p class="fs-5">
-Trapping refers confining a survivor within an area. <br><br>
-Some set ups require confined space to fully trap a survivor. This section covers <strong> prepared set-ups</strong> that you can use in specific scenarios, not trapping in an spontaneous manner in open areas which is harder.<br><br>
-Such forms of trapping are covered within a section of <a href="/madeyesguide/tipsandtricks">Tips and Tricks.</a>
+Some set ups require confined space to fully trap a survivor. This section covers <strong> prepared set-ups</strong> that you can use in specific scenarios, not trapping in an spontaneous manner in open areas which is harder. Such forms of trapping are covered within a section of <a href="/madeyesguide/tipsandtricks">Tips and Tricks.</a>
 </p>
 
----
 <p class="fs-5">
-Note:<br>
-For each map I have assigned a console a number (in a order that goes from left to right, top to bottom), you will see the reference when you click on one of the maps below.
+Also, certain traps especially in red church require confined space, so do note :")
 </p>
 
----
 
 <p class="display-5 my-4">
 Maps

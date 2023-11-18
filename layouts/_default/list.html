@@ -2,29 +2,32 @@
 
   
 
-  <div class="container">
-    {{ .Content }}
-    <br>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-lg-9">
+      {{ .Content }}
+      <br>
 
-    <div class="container text-center">
-      <div class="row row-cols-auto">
-        {{ range .Pages }} <!--List objects-->
+      <div class="container text-center">
+        <div class="row row-cols-auto">
+          {{ range .Pages }} <!--List objects-->
 
-        <div class="col g-4 d-flex align-items-stretch">
-          <div class="card shadow border-0" style="width: 18rem;">
-            <img src="{{ .Params.featuredImage | relURL}}" class="card-img-top img-fluid" alt="map thumbnail"
-            style="height:100%">
-            <div class="card-body shadow">
-              <a href="{{ .RelPermalink}}" class="card-text stretched-link">{{.LinkTitle}}</a>
+          <div class="col g-4 d-flex align-items-stretch">
+            <div class="card shadow border-0" style="width: 18rem;">
+              <img src="{{ .Params.featuredImage | relURL}}" class="card-img-top img-fluid" alt="map thumbnail"
+              style="height:100%">
+              <div class="card-body shadow">
+                <a href="{{ .RelPermalink}}" class="card-text stretched-link" style="color:white">{{.LinkTitle}}</a>
+              </div>
             </div>
           </div>
-        </div>
-        {{ end }}
+          {{ end }}
 
+        </div>
       </div>
     </div>
-
   </div>
+</div>
 
 
 
