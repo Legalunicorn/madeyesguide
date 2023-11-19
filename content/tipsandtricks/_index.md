@@ -11,7 +11,27 @@ I am currently working on
 A random collection of tips and tricks about anything, less the <a href="/madeyesguide/traps">traps</a> and <a href="/madeyesguide/camping">camping</a> that I've included in their own segment since they are big components.
 </p>
 
+{{<d d=5 str="Extent ballooning distance by self-caging and force revive">}}
+<p class="fs-5">
+This is useful if you want to chair a knocked down survivor but there are no chairs nearby. You can simply balloon and walk until the survivor is about to struggle free, then proceed to cage yourself with walls in a small area. 
+<br><br>
+You then force the survivor to break free by repeatedly picking them up then hit and hit them after your stun animation is over.
+<br><br>
+<strong>Note:</strong>
+<br>
+To be safe, do not cage yourself near a console/cipher because the wall will go down fast. If the survivor can tank vaulting a wall or escape a cage (ie. psychologist, seer, priestess, aeroplanist...)
+</p>
+
+
 {{<d d=5 str="Conserving energy for early game console spam">}}
+<p class="d-inline-flex gap-1">
+    <button class="btn btn-outline-secondary" type="button" data-bs-toggle="collapse" 
+    data-bs-target="#collapsetest" aria-expanded="false"
+    aria-controls="collapsetest">
+      Details (long)
+    </button>
+</p>
+<div id="collapsetest" class="collapse">
 <p class="fs-5">
 The energy in the consoles at the start isn't much and s few bad walls will deplete it. 
 <br><br>You might be tempted to immediately draw a wall upon seeing a running survivor when you check a console. Some high tiers do it, but I advice against doing so when the game just started.
@@ -27,10 +47,7 @@ It is perfectly fine to visit a console, see a running survivor, switch consoles
 <br><br>
 Speaking off blocking ciphers, non-corner ciphers require two walls to block off. If the cipher can be seen upon viewing the console or you just have to drag a little, you dont have to spare at the screen doing nothing between drawing the first and second wall. Not only are you wasting energy by viewing the console, this few seconds can be used to scan other consoles. You can draw the first wall, harrass other survivors, then come back and draw the second wall when the cooldown is gone (~3 seconds).
 <br><br>
-
-
-
 </p>
-
+</div>
 <p class="fs-5"></p>
 <p class="fs-5"></p>
