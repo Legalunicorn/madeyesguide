@@ -29,11 +29,11 @@ Example:
 </p>
 {{<yt yturl="https://www.youtube.com/embed/do2J0PDmmqI?si=QdSH-Wz_8WxyjT2F">}}
 
-{{<d d="6" str="Pros">}}
+{{<d d="6" str="Pros" bsclass="d-flex justify-content-center">}}
 <p class="fs-5">
 You can slow down early game decoding while trying to chip survivors.<br><BR>Theoratically, you can half down a survivor while the rest has barely decoded because of your constant harrassment.<br><Br>This could potentially snowball into a very quick win if you down the injured survivor while there's still 5 ciphers remaining because of his camp.
 </p>
-{{<d d="6" str="Cons">}}
+{{<d d="6" str="Cons" bsclass="d-flex justify-content-center">}}
 <p class="fs-5 my-3">
 This is a risky play style that relies on survivors making mistakes. No matter how much of a “god” you are at consoles, you are left to the mercy of luck if the survivors are good. If you can’t damage anyone, you’re forced to chase for two hits. You end up wasting substantial time that can make the ciphers pop fast. <br><br>
 For non-legendary rank match, if you spawn too far from a console, survivors can hack your consoles before you stop them, making this playstyle ineffective since the ciphers near hacked consoles will start popping pretty fast.
@@ -52,11 +52,11 @@ Example:
 <p class="fs-6">
 Note that this is a very specific example and in some scenarios you chase without much help of any walls</p>
 
-{{<d d="6" str="Pros">}}
+{{<d d="6" str="Pros"bsclass="d-flex justify-content-center">}}
 <p class="fs-5">
 This playstyle is harder to counter and you can usually secure a hit. If you fully trap survivors, you also have a good chance to completely down them at the start of the game</p>
 
-{{<d d="6" str="Cons">}}
+{{<d d="6" str="Cons" bsclass="d-flex justify-content-center">}}
 <p class="fs-5">
 Unfortunately you can only use powerful cages in certain spawns/scenarios. If you are a chaser player that don't get the right spawns, youll end up with a rough early game.
 <br><br>
